@@ -10,7 +10,9 @@
 <h4> How to run </h4>
 <ul>
 <li> Open any code editor or IDE </li>
-<li> Open the file "SudokuGrid.py </li>
+<li> Open the file "SudokuGrid.py" </li>
 <li> Run the file </li>
 <li> Enjoy the game! </li>
 </ul>
+
+<h5> Made By: Edward Alvin Koesmanto (2501963141) from L1AC for Algorithm and Programming Final Project </p>
